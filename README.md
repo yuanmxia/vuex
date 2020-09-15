@@ -1,3 +1,4 @@
+Hi there
 # Vuex [![Build Status](https://circleci.com/gh/vuejs/vuex/tree/dev.png?style=shield)](https://circleci.com/gh/vuejs/vuex)
 
 > Centralized State Management for Vue.js.
